@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
-- 💬 Ask me about **Sql,PHP,C**
+- 💬 Ask me about **Sql,C++,Springboot,Data Structure
 
 - 📫 How to reach me **Prernadikondwar21@gmail.com**
 
