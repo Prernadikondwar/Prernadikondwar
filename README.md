@@ -64,7 +64,7 @@ public class Prerna {
 <!--                  TECHNICAL ARSENAL                    -->
 <!-- ===================================================== -->
 
-<h2>◈ 02. Technical Arsenal</h2>
+<h2>◈ 02. Technical Skills</h2>
 
 <h3>💻 Programming Languages</h3>
 
@@ -200,23 +200,53 @@ public class Prerna {
 
 <h2>◈ 04. GitHub Analytics</h2>
 
+<h2 align="center">◈ 04. GitHub Analytics</h2>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prernadikondwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<!-- GitHub Stats -->
+<a href="https://github.com/Prernadikondwar">
+  <img width="49%" height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Prernadikondwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Prerna's GitHub Stats"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prernadikondwar&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages -->
+<a href="https://github.com/Prernadikondwar">
+  <img width="49%" height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prernadikondwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Prernadikondwar&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prernadikondwar&theme=tokyo-night&hide_border=true&area=true"/>
+<!-- GitHub Streak -->
+<img width="70%"
+  src="https://streak-stats.demolab.com?user=Prernadikondwar&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"/>
 
 </div>
 
 ---
+
+<h2 align="center">◈ 05. Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github.com/Prernadikondwar.png" width="100" alt="Prerna's GitHub profile"/>
+
+<br/>
+
+<b>Consistency is built one commit at a time.</b>
+
+<br/><br/>
+
+<a href="https://github.com/Prernadikondwar?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-312e81?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
 
 <!-- ===================================================== -->
 <!--                     CONNECT                           -->
