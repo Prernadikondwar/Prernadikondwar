@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Prernadikondwar&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Prernadikondwar?style=flat-square&color=0891b2&label=Followers"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Prernadikondwar&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Prernadikondwar?style=flat-square&color=0891b2&label=Followers"/> -->
 
 </div>
 
