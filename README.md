@@ -23,22 +23,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,100:6366f1&height=42&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%"/>
 
-```bash
-prerna@portfolio:~$ whoami
-Prerna Dikondwar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,100:6366f1&height=42&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%"/>
 
-prerna@portfolio:~$ cat education.txt
-Master of Computer Applications (MCA) - BVMIT, Navi Mumbai
+<br/>
 
-prerna@portfolio:~$ cat focus.txt
-Java, SQL, Full Stack Development, AI-powered applications
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-prerna@portfolio:~$ cat interests.txt
-Software Development | Full Stack | Artificial Intelligence | UI/UX Design
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Studying-MCA%20%40%20BVMIT%2C%20Navi%20Mumbai-a855f7?style=for-the-badge&labelColor=0f172a"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/%E2%98%95%20Working%20with-Java%20%7C%20SQL%20%7C%20Core%20CS-f472b6?style=for-the-badge&labelColor=0f172a"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20Exploring-AI%20Apps%20%26%20Modern%20Web-6366f1?style=for-the-badge&labelColor=0f172a"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Designing%20in-Figma-f24e1e?style=for-the-badge&labelColor=0f172a"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Looking%20for-Developer%20Roles%20%26%20Internships-22c55e?style=for-the-badge&labelColor=0f172a"/>
+</p>
 
-prerna@portfolio:~$ echo $GOAL
-Build. Learn. Innovate.
-```
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100%" alt="Developer coding animation"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Software+Development+%7C+Full+Stack;Artificial+Intelligence+%7C+UI%2FUX+Design;Build.+Learn.+Innovate." alt="Interests typing animation"/>
+
+</div>
 
 |  |  |
 |---|---|
