@@ -23,8 +23,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,100:6366f1&height=42&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,100:6366f1&height=42&section=header&text=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=20&fontColor=ffffff" width="100%"/>
-
 <br/>
 
 <table>
@@ -61,14 +59,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Software+Development+%7C+Full+Stack;Artificial+Intelligence+%7C+UI%2FUX+Design;Build.+Learn.+Innovate." alt="Interests typing animation"/>
 
 </div>
-
-|  |  |
-|---|---|
-| 🎓 **Studying** | MCA at BVMIT, Navi Mumbai |
-| ☕ **Working with** | Java, SQL and core software development concepts |
-| 🤖 **Exploring** | AI-powered apps and modern web technologies |
-| 🎨 **Designing in** | Figma |
-| 🎯 **Looking for** | Software Developer roles and internships |
 
 <br/>
 
